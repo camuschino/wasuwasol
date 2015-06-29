@@ -1,5 +1,4 @@
 public class Persona {
-	int edad;
-	String nombre, apellido;
+	String nombre, apellido, fechaNac;
 	char sexo;
 }
